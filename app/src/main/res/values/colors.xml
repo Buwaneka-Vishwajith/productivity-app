@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#F08A5D</color>       <!--TESTING PALLETE-->
+    <color name="red">#B83B5E</color>
+    <color name="lightyellow">#FCE38A</color>
+
+    <color name="darkblue">#0F4C75</color>
+    <color name="middleblue">#3282B8</color>   <!--TESTING PALLETE-->
+    <color name="lightblue">#BBE1FA</color>
+
+    <color name="G1">#c7f9cc</color>
+    <color name="G2">#80ed99</color>
+    <color name="G3">#57cc99</color>          <!--TESTING PALLETE-->
+    <color name="G4">#38a3a5</color>
+    <color name="G5">#22577a</color>
+
+    <color name="B1">#7695FF</color>
+    <color name="B2">#9DBDFF</color>
+    <color name="B3">#D2E0FB</color>
+    <color name="O1">#FFD7C4</color>       <!--TESTING PALLETE-->
+    <color name="O2">#FF9874</color>
+    <color name="O3">#FEECE2</color>
+
+    <color name="T1">#2D4059</color>
+    <color name="T2">#EA5455</color>
+    <color name="T3">#F07B3F</color>     <!--USED PALLETE-->
+    <color name="T4">#ECB390</color>
+    <color name="T5">#FFD460</color>
+    <color name="T6">#FF6868</color>
+
+
+</resources>

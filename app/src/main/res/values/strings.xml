@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+
+    <!-- TimerActivity -->
+    <string name="timer_start">Start</string>
+    <string name="timer_stop">Stop</string>
+    <string name="timer_reset">Reset</string>
+    <string name="timer_default">00:00:00</string>
+    <string name="detailed_note">Detailed Note</string>
+
+    <!-- MainActivity -->
+    <string name="create_conquer">Create &amp; Conquer!</string>
+    <string name="enter_task_hint">What’s on your mind?</string>
+
+    <!-- widget -->
+    <string name="Task">Tasks: </string>
+    <string name="status">Timer: Stopped </string>
+
+    <!-- item card -->
+    <string name="lab">lab exam 3 </string>
+
+</resources>
